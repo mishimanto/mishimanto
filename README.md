@@ -146,7 +146,7 @@ I’m always open to collaborating on new projects, discussing innovative ideas,
 💡 Feel free to **clone/fork** my projects, raise **issues**, or submit **PRs** if you think something can be improved.  
 
 📩 Ask me anything [**here**](https://github.com/mishimanto/mishimanto/issues/new)  
-📧 Or drop me an [**email**](mailto:mishimanto@gmail.com)
+📧 Or drop me an [**email**](mailto:moynulislamshimanto24@gmail.com)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mishimanto&label=Profile%20Views&color=0e75b6&style=flat" alt="mishimanto" />
