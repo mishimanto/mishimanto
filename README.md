@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 
-<h1 align="center">Hi 👋, I'm MhrSifat!</h1>
+<h1 align="center">Hi 👋, I'm Moynul Islam Shimanto!</h1>
 
 <img align="right" alt="Coding" width="380" 
      src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
