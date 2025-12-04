@@ -23,19 +23,19 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mhrsifatdev" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/mishimanto24" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=" alt="LinkedIn" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
-  <a href="https://wa.me/8801773448153" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/8801949854504" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&label=" alt="WhatsApp" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
   <a href="https://discord.com/users/mhrsifat13" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&label=" alt="Discord" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
-  <a href="https://mhrsifat.xyz" target="_blank" rel="noopener noreferrer">
+  <a href="https://shimzo.xyz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-111?style=flat-square&logo=google-chrome&logoColor=white&label=" alt="Website" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
-  <a href="mailto:mhrsifat@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:moynulislamshimanto24@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&label=" alt="Email" height="28" style="border-radius:6px;">
   </a>
 </p>
@@ -124,8 +124,8 @@
 
 <p align="center">
   <a href="https://github.com/mishimanto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhrsifat&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrsifat&layout=compact&theme=radical&hide_border=true" />
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhrsifat&show_icons=true&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrsifat&layout=compact&theme=radical&hide_border=true" /> -->
   </a>
 </p>
 
@@ -147,7 +147,7 @@ I’m always open to collaborating on new projects, discussing innovative ideas,
 
 💡 Feel free to **clone/fork** my projects, raise **issues**, or submit **PRs** if you think something can be improved.  
 
-📩 Ask me anything [**here**](https://github.com/mhrsifat/mhrsifat/issues/new)  
+📩 Ask me anything [**here**](https://github.com/mishimanto/Shimanto/issues/new)  
 📧 Or drop me an [**email**](mailto:moynulislamshimanto24@gmail.com)
 
 <p align="center"> 
