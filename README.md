@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" class="mobile-only"  width="200" />
 </div>
 
-<h1 align="center">Hi 👋, I'm MhrSifat!</h1>
+<h1 align="center">Hi, I'm Moynul Islam Shimanto!</h1>
 
 <img align="right" alt="Coding" width="380" 
      src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
@@ -15,7 +15,7 @@
 </p>
 
 - 🌱 I’m currently learning **Vue.Js**  
-- 📫 How to reach me: **mhrsifat@gmail.com**  
+- 📫 How to reach me: **moynulislamshimanto24@gmail.com**  
 
 <p align="center"> 
   <span style="color:#06b6d4;">━━━━━━━━━━━━━━━━━━━━</span>
@@ -52,7 +52,7 @@
 - 🔭 I’m currently working on **a cool web app using Vue.JS and Laravel**  
 - 👯 I’m looking to collaborate on **open-source projects and innovative web apps**  
 - 💬 Ask me about **Web Development, JavaScript, or UI/UX Design**  
-- 📫 How to reach me: **mhrsifat@gmail.com**
+- 📫 How to reach me: **moynulislamshimanto24@gmail.com**
 
 <p align="center"> 
   <span style="color:#facc15;">━━━━━━━━━━━━━━━━━━━━</span>
@@ -107,15 +107,14 @@
 
 | Project         | Description                     | URL                                       |
 |-----------------|---------------------------------|------------------------------------------|
-| 🧩 ApplyHub     | Local Service Provider (React + Laravel)  | [applihub.mhrsifat.xyz](https://applihub.mhrsifat.xyz)   |
-| 🌱 SmartAgro    | AI agricultural advisory (Laravel Blade + Alpine.Js)    | [smartagro.mhrsifat.xyz](https://smartagro.mhrsifat.xyz) |
-| 🚚 LogiTrack     | Logistics tracking system (React + PHP)      | [logitrack.mhrsifat.xyz](https://logitrack.mhrsifat.xyz) |
-| 🛒 Halum Shop    | Ecommerce system (PHP)       | [halum.mhrsifat.xyz](https://halum.mhrsifat.xyz) |
-| 🌟 Portfolio    | Personal portfolio website   (PHP)   | [mhrsifat.xyz](https://mhrsifat.xyz)     |
-| ☀️ Sunlight     | A Wordpress theme for Blog site (Wordpress) | [sunlight.mhrsifat.xyz](https://sunlight.mhrsifat.xyz)   |
-| 🌦️ Weather App  | Real-time weather application (Javascript)  | [weather.mhrsifat.xyz](https://weather.mhrsifat.xyz) |
-| 📚 Sanda        | Chatting app (PHP, JS, jQuery) | [sanda.mhrsifat.xyz](https://sanda.mhrsifat.xyz) |
-| 📁 File Manager | Online file manager (JavaScript)           | [cdn.mhrsifat.xyz](https://cdn.mhrsifat.xyz) |
+| 🧩 HRM     | Human Resource Management (React + Laravel)  | [matrix.shimzo.xyz](https://matrix.shimzo.xyz)   |
+| 🌱 Inventory    | Inventory System with pos (Vue.Js + Laravel)    | [vue.shimzo.xyz](https://vue.shimzo.xyz) |
+| 🚚 Smart Parking     | Smart Parking System and Services (React + PHP)      | [r.shimzo.xyz](https://r.shimzo.xyz) |
+| 🛒 Digital Marketplace    | Digital Marketplace for existing applications (Laravel blade)       | [laravel.shimzo.xyz](https://laravel.shimzo.xyz) |
+| 🌟 Tourist Agency    | Tourist Travel Agency   (React + PHP)   | [react.shimzo.xyz](https://react.shimzo.xyz)     |
+| ☀️ Hospital Management System     | Hospital Management System for Doctor Booking and other services (PHP) | [php.shimzo.xyz](https://php.shimzo.xyz)   |
+| 🌦️ Men's Saloon  |  Barbar shop (Wordpress)  | [wordpress.shimzo.xyz](https://wordpress.shimzo.xyz) |
+| 📚 Portfolio     | Personal Portfolio (PHP) | [shimzo.xyz](https://shimzo.xyz) |
 
 <p align="center"> 
   <span style="color:#facc15;">━━━━━━━━━━━━━━━━━━━━</span>
@@ -124,7 +123,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/mhrsifat">
+  <a href="https://github.com/mishimanto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhrsifat&show_icons=true&theme=radical&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrsifat&layout=compact&theme=radical&hide_border=true" />
   </a>
@@ -149,8 +148,8 @@ I’m always open to collaborating on new projects, discussing innovative ideas,
 💡 Feel free to **clone/fork** my projects, raise **issues**, or submit **PRs** if you think something can be improved.  
 
 📩 Ask me anything [**here**](https://github.com/mhrsifat/mhrsifat/issues/new)  
-📧 Or drop me an [**email**](mailto:mhrsifat@gmail.com)
+📧 Or drop me an [**email**](mailto:moynulislamshimanto24@gmail.com)
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mhrsifat&label=Profile%20Views&color=0e75b6&style=flat" alt="mhrsifat" />
+  <img src="https://komarev.com/ghpvc/?username=shimanto&label=Profile%20Views&color=0e75b6&style=flat" alt="mishimanto" />
 </p>
