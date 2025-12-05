@@ -29,7 +29,7 @@
   <a href="https://wa.me/8801949854504" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&label=" alt="WhatsApp" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
-  <a href="https://discord.com/users/mhrsifat13" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/p4fshimanto" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&label=" alt="Discord" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
   <a href="https://shimzo.xyz" target="_blank" rel="noopener noreferrer">
@@ -147,8 +147,7 @@ I’m always open to collaborating on new projects, discussing innovative ideas,
 
 💡 Feel free to **clone/fork** my projects, raise **issues**, or submit **PRs** if you think something can be improved.  
 
-📩 Ask me anything [**here**](https://github.com/mishimanto/Shimanto/issues/new)  
-📧 Or drop me an [**email**](mailto:moynulislamshimanto24@gmail.com)
+📧 drop me an [**email**](mailto:moynulislamshimanto24@gmail.com)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shimanto&label=Profile%20Views&color=0e75b6&style=flat" alt="mishimanto" />
