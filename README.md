@@ -32,7 +32,7 @@
   <a href="https://discord.com/users/p4fshimanto" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&label=" alt="Discord" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
-  <a href="https://shimzo.xyz" target="_blank" rel="noopener noreferrer">
+  <a href="https://shimzo.online" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-111?style=flat-square&logo=google-chrome&logoColor=white&label=" alt="Website" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
   <a href="mailto:moynulislamshimanto24@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -49,9 +49,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **a cool web app using Vue.JS and Laravel**  
+- 🔭 I’m currently working on **a full stack web development using React.js, Next.js and Laravel**  
 - 👯 I’m looking to collaborate on **open-source projects and innovative web apps**  
-- 💬 Ask me about **Web Development, JavaScript, or UI/UX Design**  
+- 💬 Ask me about **Web Development, JavaScript, or Backend developement**  
 - 📫 How to reach me: **moynulislamshimanto24@gmail.com**
 
 <p align="center"> 
@@ -60,7 +60,9 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend:**  
+**Frontend:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -73,12 +75,13 @@
 **Backend / Server-side:**  
 ![Laravel](https://img.shields.io/badge/laravel-000000?style=for-the-badge&logo=laravel&logoColor=white) 
 ![PHP](https://img.shields.io/badge/Php-3776AB?style=for-the-badge&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 <!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) -->
 
 **Databases & Cloud:**  
-![MySQL](https://img.shields.io/badge/Mysql-316192?style=for-the-badge&logo=Mysql&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
@@ -87,17 +90,31 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![cPanel](https://img.shields.io/badge/cPanel-FB6C2C?style=for-the-badge&logo=cpanel&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) 
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black) 
 ![Thundercloud](https://img.shields.io/badge/Thundercloud-0080FF?style=for-the-badge&logo=cloudflare&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-**Design & UI:**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+**Design & UI:**   
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) -->
 <!-- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) -->
+
+**IDE:**  
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) 
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+
+**AI tools:**  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+
 
 <p align="center"> 
   <span style="color:#06b6d4;">━━━━━━━━━━━━━━━━━━━━</span>
