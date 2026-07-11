@@ -107,14 +107,19 @@
 
 | Project         | Description                     | URL                                       |
 |-----------------|---------------------------------|------------------------------------------|
-| 🧩 HRM     | Human Resource Management (React + Laravel)  | [matrix.shimzo.xyz](https://matrix.shimzo.xyz)   |
-| 🌱 Inventory    | Inventory System with pos (Vue.Js + Laravel)    | [vue.shimzo.xyz](https://vue.shimzo.xyz) |
-| 🚚 Smart Parking     | Smart Parking System and Services (React + PHP)      | [r.shimzo.xyz](https://r.shimzo.xyz) |
-| 🛒 Digital Marketplace    | Digital Marketplace for existing applications (Laravel blade)       | [laravel.shimzo.xyz](https://laravel.shimzo.xyz) |
-| 🌟 Tourist Agency    | Tourist Travel Agency   (React + PHP)   | [react.shimzo.xyz](https://react.shimzo.xyz)     |
-| ☀️ Hospital Management System     | Hospital Management System for Doctor Booking and other services (PHP) | [php.shimzo.xyz](https://php.shimzo.xyz)   |
-| 🌦️ Men's Saloon  |  Barbar shop (Wordpress)  | [wordpress.shimzo.xyz](https://wordpress.shimzo.xyz) |
-| 📚 Portfolio     | Personal Portfolio (PHP) | [shimzo.xyz](https://shimzo.xyz) |
+| StyleHub    | Online watches, bags, braclets store (Laravel 13)  | [stylehub.shimzo.online](https://stylehub.shimzo.online)   |
+| OmegaDeal    |  Next.js ecommerce gadgets store (Next.js + Laravel 12)  | [omege-ecoomerce-frontend.vercel.app](https://omege-ecoomerce-frontend.vercel.app)   |
+| Sahoj Pharma     | Pharmacy ecommerce online store (React + Laravel 13)  | [sahojpharma.shimzo.online](https://sahojpharma.shimzo.online)   |
+| Job Portal     | Inhouse job portal (Laravel 12)  | [job.shimzo.online](https://job.shimzo.online)   |
+| GadgetsBD     | Ecommerce gadgets store (Laravel 12)  | [gadgetbd.shimzo.online](https://gadgetbd.shimzo.online)   |
+| HRM     | Human Resource Management (React + Laravel)  | [matrix.shimzo.online](https://matrix.shimzo.online)   |
+| Inventory    | Inventory System with pos (Vue.Js + Laravel)  | [vue.shimzo.online](https://vue.shimzo.online) |
+| Smart Parking     | Smart Parking System and Services (React + PHP)     | [r.shimzo.online](https://r.shimzo.online) |
+| Digital Marketplace    | Digital Marketplace for existing applications (Laravel blade)       | [laravel.shimzo.online](https://laravel.shimzo.online) |
+| Tourist Agency    | Tourist Travel Agency   (React + PHP)   | [react.shimzo.online](https://react.shimzo.xyz)     |
+| Hospital Management System     | Hospital Management System for Doctor Booking and other services (PHP) | [php.shimzo.online](https://php.shimzo.online)   |
+| Expense Tracker  |  Daily Expense tracker (Laravel 12)  | [mytracker.shimzo.online](https://mytracker.shimzo.online) |
+| Portfolio     | Personal Portfolio (Laravel 13) | [shimzo.online](https://shimzo.online) |
 
 <p align="center"> 
   <span style="color:#facc15;">━━━━━━━━━━━━━━━━━━━━</span>
