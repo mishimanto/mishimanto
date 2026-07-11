@@ -15,7 +15,7 @@
 </p>
 
 - 🌱 I’m currently working with **Latest technologies**  
-- 📫 How to reach me: **moynulislamshimanto24@gmail.com**  
+- 📫 Reach me at: **moynulislamshimanto24@gmail.com**  
 
 <p align="center"> 
   <span style="color:#06b6d4;">━━━━━━━━━━━━━━━━━━━━</span>
